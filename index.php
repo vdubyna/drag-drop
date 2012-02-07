@@ -3,6 +3,7 @@
 <head>
     <title>Home</title>
     <script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="js/prototype.js" type="text/javascript"></script>
 
     <style>
         #testing::selection {
@@ -72,4 +73,5 @@
     <div id="new_text"></div>
     <button onclick="setNewText();">submit</button>
 </body>
+zxcxzczxczx
 </html>
